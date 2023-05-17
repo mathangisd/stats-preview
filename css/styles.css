@@ -148,14 +148,10 @@ Card
     color: var(--soft-violet);
 }
 
-.stats {
-    display: grid;
-    grid-template-areas: 
-    "a"
-    "b";
-    row-gap: 0;
+.stats-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
-
 p.stat-value {
     font-size: 1.5rem;
     font-weight: 700;
