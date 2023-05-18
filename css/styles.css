@@ -69,7 +69,7 @@ small, .text-small {font-size: 0.8rem;}
     text-align: center; 
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsla(109, 82%, 45%, 0.742); 
 }
 
 .img {
@@ -169,8 +169,7 @@ p.stat-name {
 }
 
 footer.attribution {
-    margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    margin: -2rem 0 2rem;
 }
 
 /* 
