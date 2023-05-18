@@ -180,10 +180,11 @@ Media Query
 
 @media screen and (min-width: 768px) {
     
-    .card {
+        .card {
         display: grid;
         grid-template-columns: 500px 500px;
-        max-width: 1500px;
+        max-width: 1000px;
+        width: 100%;
     }
 
     .card-img-container {
