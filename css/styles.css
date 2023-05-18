@@ -168,10 +168,6 @@ p.stat-name {
     margin-top: -1rem;
 }
 
-footer.attribution {
-    margin: -2rem 0 2rem;
-}
-
 /* 
 ============================================
 Media Query
@@ -210,4 +206,9 @@ Media Query
         justify-content: start;
 
     }
+    footer.attribution {
+        margin-top:-2rem;
+    }
+    
+
 }
