@@ -16,7 +16,7 @@
     --very-dark-blue: hsl(233, 47%, 7%);
     --desaturated-blue: hsl(244, 38%, 16%);
     --soft-violet: hsl(277, 64%, 61%);
-    --soft-violet-1: rgb(170, 92, 219, 0.7);
+    --soft-violet-1: hsla(277, 100%, 50%, 0.45);
 
     /* neutral colors */
     --white: hsl(0, 0%, 100%);
@@ -206,7 +206,7 @@ Media Query
     }
     .stats-container {
         display: grid;
-        grid-template-columns:repeat(3, minmax(auto, 120px));
+        grid-template-columns:repeat(3, 120px);
         justify-content: start;
 
     }
