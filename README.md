@@ -41,7 +41,7 @@ Users should be able to:
 
 - Solution URL : [Git URL](https://github.com/mathangisd/stats-preview.git)
 
-- Live URL : [NFT Preview Card Component on Netlify](https://nftpreview-msd.netlify.app/)
+- Live URL : [Stats Preview Card Component on Netlify](https://stats-preview-msd.netlify.app/)
 
 
 ## My process
