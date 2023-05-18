@@ -62,8 +62,6 @@ I would like to keep working on other projects that involve different responsive
 
 - [3 ways to Tint image](https://cssfox.co/=maxim-aginsky/log/three-ways-to-tint-image-with-css3-box-shadow-multiple-backgrounds-and-pseudo-elements) by Maxim Aginsky
 
-- [A Deep Dive Into CSS Grid minmax()](https://ishadeed.com/article/css-grid-minmax/) by Ahmad Shadeed
-
 ## Author
 - Website - [Mathangi Subramanian](https://github.com/mathangisd)
 - Frontend Mentor - [mathangisd](https://www.frontendmentor.io/profile/mathangisd)
